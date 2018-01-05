@@ -3,5 +3,19 @@ h1 {
   font-family: fantasy;
   text-align: center;
   color: blue;
-  
+
+}
+
+h2 {
+  font-size: 25px;
+  font-family: fantasy;
+  text-align: center;
+
+}
+
+img {
+  width: 450px;
+  height: 550px;
+  text-align: center;
+  float: right;
 }

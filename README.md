@@ -13,7 +13,7 @@ _Will be adding Bootstrap when I get more experience with it_
 
 ## Setup/Installation Requirements
 
-* _Clone from github
+* _Clone from github_
 * _Open with html_
 
 ## Known Bugs

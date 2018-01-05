@@ -46,6 +46,7 @@ li {
 .important {
   font-family: fantasy;
   color:red;
+  text-align: center;
 }
 
 a:hover {

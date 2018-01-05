@@ -39,6 +39,11 @@ p {
 li {
   color: red;
 }
+
 .important {
   color:red;
+}
+
+a:hover {
+  background-color: yellow;
 }

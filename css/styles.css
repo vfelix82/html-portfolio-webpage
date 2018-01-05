@@ -1,8 +1,14 @@
+body {
+  background-color: black;
+
+}
+
+
 h1 {
   font-size: 50px;
   font-family: fantasy;
   text-align: center;
-  color: blue;
+  color: red;
 
 }
 
@@ -10,12 +16,21 @@ h2 {
   font-size: 25px;
   font-family: fantasy;
   text-align: center;
+  color: red;
 
 }
 
 img {
   width: 450px;
-  height: 550px;
+  height: 450px;
   text-align: center;
   float: right;
+}
+
+h3 {
+  font-family: fantasy;
+}
+
+p {
+  color: white;
 }

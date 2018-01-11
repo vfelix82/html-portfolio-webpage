@@ -18,7 +18,7 @@ _This is my basic format portfolio.
 ## Support and contact details
 
 _If you would like to get a hold me, please email me at vfelix82@gmail.com_
-_If you would like to see more of my work please check https://github.com/vfelix82?tab=repositories_
+_Please check https://github.com/vfelix82?tab=repositories to see more of my work._
 _https://github.com/_
 
 ## Technologies Used

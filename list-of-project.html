@@ -1,42 +1,106 @@
 <!DOCTYPE html>
   <html>
     <head>
-      <link href="/Users/Guest/desktop/portfolio-webpage/css/bootstrap/css/bootstrap.css" text="text/css">
+      <link href="css/bootstrap/css/bootstrap.css" rel="stylesheet" text="text/css">
       <link href="css/styles.css" rel="stylesheet" type="text/css">
       <title>List of Projects</title>
-    </head>
-    <body>
-      <h1>List of my Projects!</h1>
-      <h2>List of Projects I have Created</h2>
-        <ul>
-          <li><a class="important" href="https://github.com/vfelix82/my-first-webpage">My-first-webpage</a></li>
-
-          <p>This is my first webpage I created. As you can see it is very ugly and basic
-          but promising!</p>
-
-          <p>Programs I used: Html</p>
-
-          <li><a class="important" href="https://github.com/vfelix82/goodbye-pair">Goodbye-pair</a></li>
-
-          <p>This webpage represents ways to say goodbye in different languages.</p>
-
-          <p>Programs I used: Html</p>
-
-          <li><a class="important" href="https://github.com/vfelix82/hello-world-pair">Hello-world-pair</a></li>
-
-          <p>This webpage represents ways to say hello in different languages.
-
-          <p>Programs I used: Html</p>
-
-          <li><a class="important" href="https://github.com/vfelix82/resort-site">Resort-site</a></li>
-
-          <p>I wish I could take credit for this beautiful resort website. But it was
-              created by Alex N. with a little bit of imput from me!</p>
-          <p>Programs I used: Html, CSS</p>
-
-          <div style="text-align: center">
-          <a class="important" href="/Users/Guest/desktop/portfolio-webpage/index.html">Back to my HOMEPAGE!</a>
+      <!-- source https://www.w3schools.com/bootstrap/bootstrap_navbar.asp -->
+      <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a class="navbar-brand">My Portfolio</a>
           </div>
+       <ul class="nav navbar-nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about-me.html">About me</a></li>
+          <li class="active"><a href="list-of-project.html">My Projects</a></li>
         </ul>
-    </body>
+          </div>
+      </nav>
+      <!-- source https://www.w3schools.com/bootstrap/bootstrap_navbar.asp -->
+    </head>
+      <body>
+        <div class="container">
+         <div class="jumbotron" id="jumbo-project" style="background-image: url(https://wallpaperscraft.com/image/black_background_pattern_light_texture_55291_1920x1080.jpg)">
+            <h1 style="color: white">My Projects</h1>
+            <h2 style="color: white">Please stay a while and check-out my Genius work!</h2>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="panel panel-info">
+                <div class="panel-heading">
+                  <h4 class="panel-title"><a href="https://github.com/vfelix82/my-first-webpage">My-first-webpage</a></h4>
+                </div>
+                <div class="panel-body">
+                  <p>This is my first webpage I created. As you can see it is very ugly and basic
+                  but promising!</p>
+                  <p class=pis>Programs I used: Html</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="panel panel-info">
+                <div class="panel-heading">
+                  <h4 class="panel-title"><a  href="https://github.com/vfelix82/goodbye-pair">Goodbye-pair</a></h4>
+                </div>
+                <div class="panel-body">
+                  <p>This webpage represents ways to say goodbye in different languages.</p>
+                  <p class=pis>Programs I used: Html</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="panel panel-info">
+                <div class="panel-heading">
+                  <h4 class="panel-title"><a href="https://github.com/vfelix82/hello-world-pair">Hello-world-pair</a></h4>
+                </div>
+                <div class="panel-body">
+                  <p>This webpage represents ways to say hello in different languages.</p>
+                  <p class=pis>Programs I used: Html</p>
+                </div>
+              </div>
+            </div>
+          </div>
+       </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="panel panel-info">
+                <div class="panel-heading">
+                  <h4 class="panel-title"><a href="https://github.com/vfelix82/resort-site">Resort-site</a></h4>
+                </div>
+                <div class="panel-body">
+                  <p>I wish I could take credit for this beautiful resort website. But it was
+                  created by Alex N. with a little bit of imput from me!</p>
+                  <p class=pis>Programs I used: Html, CSS</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="panel panel-info">
+                <div class="panel-heading">
+                  <h4 class="panel-title"><a href="https://github.com/vfelix82/cupcake-shop">Cupcake-shop</a></h4>
+                </div>
+                <div class="panel-body">
+                  <p>This is my Cupcake Shop website! Please come in and buy some cupcakes!</p>
+                  <p class=pis>Programs I used: Html, CSS</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="panel panel-info">
+                <div class="panel-heading">
+                  <h4 class="panel-title"><a href="https://github.com/vfelix82/blogging-site">Blogging-site</a></h4>
+                </div>
+                <div class="panel-body">
+                  <p>This is my blogging site. I will be blogging about my travels and video games!</p>
+                  <p class=pis>Programs I used: Html</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </body>
   </html>

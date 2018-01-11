@@ -1,54 +1,59 @@
-body {
-  background-color: black;
+#jumbo-index {
+  height: 400px;
+  margin-top: 1cm;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: 1200px 600px;
+  
+}
 
+#jumbo-project {
+  height: 400px;
+  margin-top: 1cm;
+  background-position: center;
+}
+
+#jumbo-about {
+  height: 400px;
+  margin-top: 1cm;
 }
 
 h1 {
-  height: 75px;
-  margin: 15px;
-  border: 2px solid red;
-  font-size: 50px;
-  font-family: fantasy;
+  padding-top: 2cm;
+  font-weight: bold;
   text-align: center;
-  color: red;
+  font-family: 'Times New Roman', Times, serif;
 
 }
 
 h2 {
-  font-size: 25px;
-  font-family: fantasy;
   text-align: center;
-  color: red;
+  font-family: 'Times New Roman', Times, serif;
 
 }
 
-h3 {
-  font-family: fantasy;
-  color: red;
+.panel > .panel-heading {
+  text-align: center;
+  background-image: none;
+  background-color: #595959;
+  color: white;
 
 }
 
-img {
-  width: 450px;
-  height: 450px;
-  text-align: center;
-  float: right;
+.panel > .panel-body {
+  background-color: #e6e6e6;
 }
 
 p {
-  color: white;
+  font-size: 15px;
 }
 
-li {
-  color: red;
+img {
+  height: 450px;
+  width: 450px;
+  
 }
 
-.important {
-  font-family: fantasy;
-  color:red;
-  text-align: center;
-}
-
-a:hover {
-  background-color: yellow;
+.pis {
+  font-weight: bold;
 }

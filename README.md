@@ -10,6 +10,7 @@ _This is my basic format portfolio._
 
 ## Setup/Installation Requirements
 
+* Direct link https://vfelix82.github.io/portfolio-webpage/
 * _Clone from github_
 * _Open with html_
 

@@ -1,37 +1,39 @@
-# _Portfolio Webpage_
+# Portfolio Webpage
 
-#### _My Portfolio, 1.0 1/5/2018_
+#### My Portfolio, 1.0 1/5/2018
 
-#### By _**Victor Felix**_
+#### By **Victor Felix**
 
 ## Description
 
-_This is my basic format portfolio._
+This is my basic format portfolio.
 
 ## Setup/Installation Requirements
 
 * Direct link https://vfelix82.github.io/portfolio-webpage/
-* _Clone from github_
-* _Open with html_
+* Clone from github
+* Open with html
 
 ## Known Bugs
 
 ## Support and contact details
 
-_If you would like to get a hold me, please email me at vfelix82@gmail.com_
+If you would like to get a hold me, please email me at vfelix82@gmail.com
 
-_Please check https://github.com/vfelix82?tab=repositories to see more of my work._
+Please check https://github.com/vfelix82?tab=repositories to see more of my work.
 
-_https://github.com/_
+https://github.com/
 
 ## Technologies Used
 
-_Html_
-_CSS_
-_BOOTSTRAP_
+Html
+
+CSS
+
+BOOTSTRAP
 
 ### License
 
-_MIT lincense_
+MIT lincense
 
-Copyright (c) 2016 **_Victor Felix_**
+Copyright (c) 2016 **Victor Felix**
